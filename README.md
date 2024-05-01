@@ -7,7 +7,6 @@ There are 4 levels and one final boss level. You get stronger as you progress th
 ## How to Run
 1. Download [Greenfoot](https://www.greenfoot.org/download).
 
-2. Download the .gfar file and try to open it.
-This may also download a "lost-dino" folder that contains all the files for the game. If opening the .gfar file fails, delete the .gfar file and open "project.greenfoot" inside this folder. 
+2. Download and run the .gfar file.
 
 Enjoy playing.
