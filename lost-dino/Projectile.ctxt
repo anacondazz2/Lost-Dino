@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Projectile
-comment0.text=\r\n\ Superclass\ for\ all\ projectiles\ such\ as\ arrows\ and\ the\ enemies'\ attacks.\ \r\n\ All\ projectiles\ that\ end\ up\ at\ the\ edges\ of\ the\ world\ or\ hit\ a\ wall\ are\ removed.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ June\ 2022\r\n
-comment1.params=
-comment1.target=void\ checkAtWall()
-numComments=2

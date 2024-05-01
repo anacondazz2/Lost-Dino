@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Level1Pass
-comment0.text=\r\n\ Level\ 1\ complete\ screen.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ June\ 2022\r\n
-comment1.params=
-comment1.target=Level1Pass()
-comment2.params=
-comment2.target=void\ act()
-numComments=3
